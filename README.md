@@ -17,7 +17,7 @@ In both cases the discriminator is a $70 \times 70$ PatchGAN discriminator while
 
 All parameters were chosen to simulate the results achieved in the paper.
 
-
+$\phi$
 In collaboration with:
 https://github.com/dbasso98
 
