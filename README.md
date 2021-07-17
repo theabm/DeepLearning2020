@@ -13,7 +13,7 @@ Trained to simulate the map->aerial photo application illustrated in the origina
 # Cycle GANs
 Trained to simulate the photo->ukiyoe application illustrated in the paper. Therefore, identity loss is included by default in the config file. 
 
-In both cases the discriminator is a $70 \times 70$ PatchGAN discriminator while the generator is based on the U-Net architecture. 
+In both cases the discriminator is a $$70 \times 70$$ PatchGAN discriminator while the generator is based on the U-Net architecture. 
 
 All parameters were chosen to simulate the results achieved in the paper.
 
