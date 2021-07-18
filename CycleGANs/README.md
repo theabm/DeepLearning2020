@@ -1,6 +1,7 @@
-# Conditional GANs
-Conditional GANs were trained on the MNIST dataset and conditioned on the digits.
-The result is that after 8-9 epochs the results are very satisfying while after epoch 12 we start encountering worsening results which are probably due to vanishing gradient problems.
+#Cycle Gans
+Implementation following the results in the original paper. For more information on how to download the dataset see:
+
+https://github.com/junyanz/CycleGAN
 
 FILES: 
 
