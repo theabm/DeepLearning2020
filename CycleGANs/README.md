@@ -1,4 +1,4 @@
-#Cycle Gans
+##Cycle Gans
 
 Implementation following the results in the original paper. For more information on how to download the dataset see:
 
