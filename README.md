@@ -5,7 +5,7 @@ This repository contains an implementation of several Generative Adversarial Mod
 
 # Conditional GANs
 Conditional GANs were trained on the MNIST dataset and conditioned on the digits.
-The result is that after 8-9 epochs the results are very satisfying while after epoch 12 we start encountering worsening results which are probably due to vanishing gradiet problems. 
+The result is that after 8-9 epochs the results are very satisfying while after epoch 12 we start encountering worsening results which are probably due to vanishing gradient problems. 
 
 # Pix2Pix
 Trained to simulate the map->aerial photo application illustrated in the original paper. 
