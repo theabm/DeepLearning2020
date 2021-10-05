@@ -1,6 +1,6 @@
 # Conditional DCGANs
 
-Implementation of Conditional Deep Convolutional GANs following https://arxiv.org/abs/1511.06434 paper. All the details are present in form of comments inside *conditional_gans.py* file.
+Implementation of Conditional Deep Convolutional GANs following [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf). All the details are present in form of comments inside *conditional_gans.py* file.
 
 ### FILES
 * conditional_gans.py: Contains Generator, Discriminator, weight initialization, training and testing of the network.
