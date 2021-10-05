@@ -21,6 +21,7 @@ In collaboration with:
 https://github.com/dbasso98
 
 This implementation was the focus of the final project of the Deep Learning course held by Prof. Alessio Ansuini and Prof. Marco Zullich (DSSC).
+Here the link to the presentation's slides: [GANs overview](https://prezi.com/view/rdxwGm8MGQbot1H2Wyo5/).
 
 
 
