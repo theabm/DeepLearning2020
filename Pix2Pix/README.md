@@ -1,5 +1,5 @@
 # Pix2Pix
-Implementation of Pix2Pix, an image-to-image translation using GANs following specifics from [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf.
+Implementation of Pix2Pix, an image-to-image translation using GANs following specifics from [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf).
 Among the different applications we opted for the map to aerial scenario.
 
 ### FILES
